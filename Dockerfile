@@ -19,7 +19,4 @@ RUN apk add --update \
 RUN pip install -U setuptools
 RUN pip install -r requirements.txt
 
-RUN ansible --version
-RUN ansible-playbook --version
-
 ENTRYPOINT ["ansible"]
