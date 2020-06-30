@@ -13,4 +13,4 @@ Building will require installation of docker-io package.
 
 For use in a pipeline deployment and contains a single ENTRYPOINT named **ansible**.
 
-Files intended for use in conjuction with the blog post Improving Your CI/CD Pipeline With Custom Docker Images https://www.tinfoilcipher.co.uk/2020/05/18/improving-your-ci-cd-pipeline-with-custom-docker-images/
+Files intended for use in conjuction with the blog post **Improving Your CI/CD Pipeline With Custom Docker Images** https://www.tinfoilcipher.co.uk/2020/05/18/improving-your-ci-cd-pipeline-with-custom-docker-images/
