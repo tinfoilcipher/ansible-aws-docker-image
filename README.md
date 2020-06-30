@@ -1,3 +1,5 @@
+# ansible-aws-docker-image
+
 Source Dockerfile for https://hub.docker.com/repository/docker/tinfoilcipher/ansible-aws.
 
 This container is intended to provide a ready-made environment for running AWS-targeted Ansible Playbooks and already includes the relevant pip modules (Python 2.7.18):
